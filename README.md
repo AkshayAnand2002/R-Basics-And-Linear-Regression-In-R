@@ -1,0 +1,2 @@
+# R-Basics-And-Linear-Regression-In-R
+BASIC R COMMANDS AND LINEAR REGRESSION IN R
